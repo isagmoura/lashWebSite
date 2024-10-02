@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+}
+
+.banner {
+  background-color: #eeddcc;
+  display: flex;
+  justify-content: space-between;
+  padding-left: 9rem;
+  padding-right: 9rem;
+}
